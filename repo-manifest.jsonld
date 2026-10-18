@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scverse/mudata/commit/6038e1ae0bdf3b6d5b747b2a6145ee1d6cb4a39a",
       "git:hexsha": "6038e1ae0bdf3b6d5b747b2a6145ee1d6cb4a39a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T14:24:42.691722+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scverse/mudata/commit/0e52a181adbb1ae6af7c9e3eb469fcbeccf35252",
