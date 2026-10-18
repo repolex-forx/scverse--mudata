@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "mudata",
+  "versions": [
+    {
+      "commit": "6038e1ae0bdf3b6d5b747b2a6145ee1d6cb4a39a",
+      "tag": "",
+      "parsed_at": "2026-10-18T14:24:42.692318+00:00"
+    }
+  ]
+}
